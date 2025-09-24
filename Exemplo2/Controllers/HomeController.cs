@@ -18,7 +18,7 @@ namespace Exemplo2.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Cardapio()
         {
             return View();
         }
